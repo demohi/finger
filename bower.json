@@ -1,0 +1,21 @@
+{
+  "name": "finger",
+  "version": "0.0.1",
+  "homepage": "https://github.com/demohi/finger",
+  "authors": [
+    "mdemo <mengdesen09@qq.com>"
+  ],
+  "description": "a game by angular.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.21",
+    "angular-cookies": "~1.2.21"
+  }
+}
